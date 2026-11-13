@@ -1,0 +1,35 @@
+photocraft-skills
+Скиллы для обработки фото одежды в редакторе PhotoCraft.
+
+Этот набор является производной работой от Adobe Skills for Agents
+(https://github.com/adobe/skills), лицензия Apache License 2.0.
+
+Какие скиллы Adobe взяты за основу:
+
+  adobe-product-photo-cutout       основа для photocraft-product-cutout
+  adobe-batch-edit-photos          основа для photocraft-batch-look
+  adobe-resize-photos-and-videos   основа для photocraft-resize-export
+  adobe-retouch-portraits          основа для photocraft-model-retouch
+  adobe-match-style                основа для photocraft-match-style
+
+Что изменено по сравнению с оригиналом:
+
+  - инструкции написаны заново на русском языке;
+  - облачные инструменты Adobe заменены командами photocraft-cli
+    редактора PhotoCraft;
+  - убраны шаги, которые относятся только к сервисам Adobe (вход,
+    загрузка в облако, библиотека пресетов, стоковые изображения,
+    генеративные инструменты, работа с видео);
+  - добавлены правила для фото одежды, общий базовый скилл, справочник
+    команд и готовые файлы шагов для пакетной обработки.
+
+От оригинала сохранены порядок работы и ключевые правила: обязательная
+проба на одном фото перед партией, одинаковые настройки на всю партию,
+честное сообщение о неудачных результатах, запрет генеративных правок
+людей и одежды.
+
+PhotoCraft: https://github.com/storytold/photocraft
+(лицензия MIT или Apache-2.0).
+
+Набор не связан с Adobe и с авторами PhotoCraft и ими не поддерживается.
+Adobe и Photoshop являются товарными знаками их владельца.

@@ -1,0 +1,8 @@
+[
+  ["layer.removeBackground", {}],
+  ["image.trim", {"basedOn": "transparent"}],
+  ["file.automate.fitImage", {"width": 765, "height": 1020}],
+  ["image.canvasSize", {"width": 900, "height": 1200, "anchor": "center", "extensionColor": "transparent"}],
+  ["layer.flattenImage", {}],
+  ["edit.convertToProfile", {"profile": "srgb"}]
+]

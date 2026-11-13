@@ -1,0 +1,6 @@
+[
+  ["image.autoContrast", {}],
+  ["image.adjustments.curves", {"points": [[0, 0], [64, 56], [192, 200], [255, 255]]}],
+  ["filter.sharpen.unsharpMask", {"amount": 60, "radius": 1, "threshold": 2}],
+  ["edit.convertToProfile", {"profile": "srgb"}]
+]

@@ -1,0 +1,6 @@
+[
+  ["file.automate.fitImage", {"width": 1080, "height": 1350}],
+  ["image.canvasSize", {"width": 1080, "height": 1350, "anchor": "center", "extensionColor": "white"}],
+  ["layer.flattenImage", {}],
+  ["edit.convertToProfile", {"profile": "srgb"}]
+]

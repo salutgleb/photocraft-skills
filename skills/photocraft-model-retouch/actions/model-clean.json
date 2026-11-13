@@ -1,0 +1,7 @@
+[
+  ["image.autoContrast", {}],
+  ["image.adjustments.shadowsHighlights", {"shadowAmount": 15, "highlightAmount": 10}],
+  ["image.adjustments.vibrance", {"vibrance": 10}],
+  ["filter.sharpen.unsharpMask", {"amount": 50, "radius": 1, "threshold": 3}],
+  ["edit.convertToProfile", {"profile": "srgb"}]
+]

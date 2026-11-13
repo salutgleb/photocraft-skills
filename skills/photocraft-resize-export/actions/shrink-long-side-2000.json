@@ -1,0 +1,4 @@
+[
+  ["file.automate.fitImage", {"width": 2000, "height": 2000, "dontEnlarge": true, "resample": "bicubicSharper"}],
+  ["edit.convertToProfile", {"profile": "srgb"}]
+]

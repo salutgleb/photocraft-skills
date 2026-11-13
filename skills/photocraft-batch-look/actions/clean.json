@@ -1,0 +1,5 @@
+[
+  ["image.autoContrast", {}],
+  ["filter.sharpen.unsharpMask", {"amount": 60, "radius": 1, "threshold": 2}],
+  ["edit.convertToProfile", {"profile": "srgb"}]
+]
