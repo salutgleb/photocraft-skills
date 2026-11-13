@@ -1,0 +1,8 @@
+[
+  ["select.subject", {}],
+  ["select.modify.expand", {"radius": 30}],
+  ["select.inverse", {}],
+  ["select.modify.feather", {"radius": 12}],
+  ["filter.blur.surfaceBlur", {"radius": 15, "threshold": 10}],
+  ["select.deselect", {}]
+]
