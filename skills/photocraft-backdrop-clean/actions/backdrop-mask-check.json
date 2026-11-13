@@ -1,0 +1,8 @@
+[
+  ["select.subject", {}],
+  ["select.modify.expand", {"radius": 30}],
+  ["select.inverse", {}],
+  ["select.modify.feather", {"radius": 12}],
+  ["edit.fill", {"contents": "color", "color": "#ff00ff", "opacity": 60}],
+  ["select.deselect", {}]
+]
